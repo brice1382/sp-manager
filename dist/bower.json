@@ -1,0 +1,16 @@
+{
+  "name": "sp-manager",
+  "description": "Simple manager for angular apps",
+  "version": "0.1.1-beta.1",
+  "homepage": "https://github.com/brice1382/sp-manager",
+  "license": "GPL-3.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-loader": "^1.6.4",
+    "angular-mocks": "^1.6.4",
+    "angular-scenario": "^1.6.5"
+  }
+}
