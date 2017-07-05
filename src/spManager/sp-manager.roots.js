@@ -1,5 +1,5 @@
 angular
-    .module('sp-manager.roots', [])
+    .module('sp-manager.root', [])
     .provider('FlashManager', function () {
 
         this.$get = ['$rootScope', function ($rootScope) {
