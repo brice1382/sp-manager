@@ -13,11 +13,11 @@ Note Created On: Tuesday, July 4, 2017, 6:04:36 AM EDT */
 
 angular
     .module('sp-manager', [
-        'sp-manager.roots'
+        'sp-manager.root'
     ]);
 
 angular
-    .module('sp-manager.roots', [])
+    .module('sp-manager.root', [])
     .provider('FlashManager', function () {
 
         this.$get = ['$rootScope', function ($rootScope) {
