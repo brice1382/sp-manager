@@ -6,5 +6,5 @@
 
 angular
     .module('sp-manager', [
-        'sp-manager.roots'
+        'sp-manager.root'
     ]);
