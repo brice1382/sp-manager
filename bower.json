@@ -1,9 +1,9 @@
 {
   "name": "sp-manager",
-  "description": "Simple manager for angular apps",
-  "version": "0.1.1-beta.1",
+  "description": "Library to add small functions to AngularJS. Mainly a rootScope flag for animations.",
+  "version": "0.1.1",
   "homepage": "https://github.com/brice1382/sp-manager",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {},
   "devDependencies": {

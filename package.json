@@ -1,9 +1,9 @@
 {
   "name": "sp-manager",
-  "version": "0.1.1-beta.1",
-  "description": "Library to help you work with JWTs on AngularJS",
+  "version": "0.1.1",
+  "description": "Library to add small functions to AngularJS. Mainly a rootScope flag for animations.",
   "main": "index.js",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": {
     "name": "Brandon Rice",
     "email": "brice721@gmail.com",
