@@ -10,6 +10,7 @@ var sq         = require('gulp-sequence');
 var bump        = require('gulp-bump');
 var semver      = require('semver');
 var fs         = require('fs');
+var man = require('sp-manager');
 
 gulp.task('build', function() {
     gulp.src('src/spManager/**/*.js')
