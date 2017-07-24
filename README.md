@@ -4,7 +4,7 @@
 Sp Manager is the beginning of a set of helper functions for AngularJS. Current implementations is creating an available scope
 to create animations per buttons clicks that get stripped once page reload or location change occurs. Working on adding functionality at the moment and adding it to npm.
 
-# USE
+# Use
 
 Using Bower
 $ bower install sp-manager --save
@@ -15,6 +15,12 @@ $ npm install sp-manager --save
 Download and include in your project, add <script type="text/javascript" src="dist/sp-manager.js"></script>
 or <script type="text/javascript" src="dist/sp-manager.min.js"></script> to your index.html file, add 'sp-manager'
 to your app.js as a dependency and you are done.
+
+# Clock
+After installing the manager as a dependency you can either include the stylesheet in the <head></head> of your index.html
+file or you can copy and paste. Using SCSS allows you to customize the styles with a small amount of effort by changes the
+included variables. Once done getting that set up copy and paste the html for the clock into your project where you want it
+and you now have a running clock.
 
 # Idea
 The idea for the isFlasy flag came about from the desire to make a certain element on a website flash to catch the
