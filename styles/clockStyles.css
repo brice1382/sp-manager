@@ -1,0 +1,35 @@
+.spSpacer {
+  height: 30px; }
+
+.spClock {
+  width: 50%;
+  border-radius: 6px;
+  background-color: grey; }
+
+.spNumbers {
+  text-align: center;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', arial, sans-serif;
+  color: azure;
+  letter-spacing: 2px;
+  font-size: 70px;
+  text-shadow: 5px 3px 25px black;
+  padding: 5px;
+  border: 2px lightskyblue;
+  border-radius: 6px; }
+
+.spDate {
+  color: azure;
+  text-align: center;
+  padding: 5px;
+  border: 2px lightskyblue;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', arial, sans-serif;
+  border-radius: 30px; }
+
+.all {
+  padding: 5px;
+  width: auto;
+  border: 5px solid lightskyblue;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', arial, sans-serif;
+  border-radius: 30px; }
+
+/*# sourceMappingURL=clockStyles.css.map */

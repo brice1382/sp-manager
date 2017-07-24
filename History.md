@@ -1,0 +1,1 @@
+Version 0.2.0 Added the start for Security, Session Manager and User Roles. Also added a working clock.
